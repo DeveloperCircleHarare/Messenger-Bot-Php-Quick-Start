@@ -16,8 +16,11 @@ A quick start guide to building a bot on the Messenger messaging platform.
 - A [Facebook Page](https://web.facebook.com/pages/create)
 - A [Facebook App](https://developers.facebook.com/apps/) with the Facebook Messenger product
 - [PHP 7.1+](http://php.net/downloads.php)
-- [Xdebug](https://xdebug.org/download.php)
 - [Composer](https://getcomposer.org/)
+For Hosting
+- [Heroku Account](https://signup.heroku.com/dc)
+- [Heroku Cli](https://devcenter.heroku.com/articles/heroku-cli)
+OR
 - A local web-server e.g. [Apache](https://www.apache.org/dyn/closer.cgi)
 - A publicly accessible URL e.g. [ngrok](https://ngrok.com/)
 

@@ -58,5 +58,5 @@ The latest release of Sourcebot is now supported! Changes include:
   * `HEROKU_URL` config var renamed to `PUBLIC_URL` to avoid using Heroku's namespace
   * `DATABASE_URL` config var will be set for you to access your database
 
-### References 
+## <a name="references"></a> References 
 [Messenger Platform Getting Started](https://developers.facebook.com/docs/messenger-platform/getting-started/app-setup/)

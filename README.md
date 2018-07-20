@@ -1,8 +1,16 @@
+![alt text](https://raw.githubusercontent.com/DeveloperCircleHarare/Messenger-Bot-Php-Quick-Start/master/images/banner.png)
+
 # Messenger-Bot-Php-Quick-Start
 
 A quick start guide to building a bot on the Messenger messaging platform.
 
 ## <a name="develop"></a> Develop
+
+### Tech
+
+#### Language
+
+![alt text](https://raw.githubusercontent.com/DeveloperCircleHarare/Messenger-Bot-Php-Quick-Start/master/images/lang-logo.png)
 
 ### Requirements
 - A [Facebook Page](https://web.facebook.com/pages/create)
@@ -12,7 +20,6 @@ A quick start guide to building a bot on the Messenger messaging platform.
 - [Composer](https://getcomposer.org/)
 - A local web-server e.g. [Apache](https://www.apache.org/dyn/closer.cgi)
 - A publicly accessible URL e.g. [ngrok](https://ngrok.com/)
-- A Wordpress instance with the [Wordpress REST API](https://wordpress.org/plugins/rest-api/)
 
 ### First time
 

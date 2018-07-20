@@ -6,11 +6,14 @@ A quick start guide to building a bot on the Messenger messaging platform.
 
 ## <a name="develop"></a> Develop
 
-### Tech
+#### Deploy - Heroku
+![Heroku](https://raw.githubusercontent.com/DeveloperCircleHarare/Messenger-Bot-Php-Quick-Start/master/images/heroku.png)
 
-#### Language
+#### Language - Php
+![Php](https://raw.githubusercontent.com/DeveloperCircleHarare/Messenger-Bot-Php-Quick-Start/master/images/php.png)
 
-![alt text](https://raw.githubusercontent.com/DeveloperCircleHarare/Messenger-Bot-Php-Quick-Start/master/images/lang-logo.png)
+#### Data Persistence - PostgresSql
+![Postgres](https://raw.githubusercontent.com/DeveloperCircleHarare/Messenger-Bot-Php-Quick-Start/master/images/postgresql_logo.png)
 
 ### Requirements
 - A [Facebook Page](https://web.facebook.com/pages/create)

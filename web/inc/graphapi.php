@@ -5,7 +5,7 @@
 /************************************************************ Retrieve User Profile Graph Api ******************************************************************************************************************************************************************/
 
 function retrieve_user_profile($sender, $PAGE_ACCESS_TOKEN){
-    $url = "https://graph.facebook.com/v2.11/". $sender . "?fields=first_name,last_name,profile_pic,locale,timezone,gender,email&access_token=EAABxBl3ZATskBAGG8dW89qHBPUAFeCJNdxVxBhJGi62K1rB8wQeIyRksauMlZBIc1xm8saazhrrGanGCHRhZBlZBrmjkWFZA0UgrxyZAgmXa73NZCPZBrVFUH2pYrah3meqTXgd0cSZBohPnFvD1HFWIh1XRouhr3ZAdPIHUhwsqfd8wZDZD";
+    $url = "https://graph.facebook.com/v2.11/". $sender . "?fields=first_name,last_name,profile_pic,locale,timezone,gender,email&access_token=" . $PAGE_ACCESS_TOKEN;
 
     $ch = curl_init();
     curl_setopt($ch, CURLOPT_SSL_VERIFYPEER, false);

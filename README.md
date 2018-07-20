@@ -57,3 +57,6 @@ The latest release of Sourcebot is now supported! Changes include:
     * [Heroku-Postgresql](https://elements.heroku.com/addons/heroku-postgresql) (deploy default)
   * `HEROKU_URL` config var renamed to `PUBLIC_URL` to avoid using Heroku's namespace
   * `DATABASE_URL` config var will be set for you to access your database
+
+### References 
+[Messenger Platform Getting Started](https://developers.facebook.com/docs/messenger-platform/getting-started/app-setup/)

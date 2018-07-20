@@ -1,0 +1,34 @@
+{
+  "name": "Sourcebot",
+  "description": "A quick start guide to building a bot on the Messenger messaging platform.",
+  "repository": "https://github.com/DeveloperCircleHarare/Messenger-Bot-Php-Quick-Start",
+  "env": {
+    "BOT_NAME": {
+      "description": "BOT'S ACTUAL NAME.",
+      "value": "secret"
+    },
+    "ACCESS_TOKEN": {
+      "description": "ACCESS_TOKEN copy the access token from your app's Messenger settings.",
+      "value": "secret"
+    },
+    "VERIFY_TOKEN": {
+      "description": "VERIFICATION_TOKEN make sure this value matches the verify token you give in your Messenger settings.",
+      "value": "secret"
+    },
+    "WEBSITE_URL": {
+      "description": "Link to the website where your content resides.",
+      "value": "http://example.com/"
+    },
+    "PROFILE_PIC_URL": {
+      "description": "Link to your Facebook page's picture.",
+      "value": "secret"
+    }
+  },
+  "addons": [
+	"heroku-postgresql:hobby-dev",
+  "bonsai:sandbox-6",
+  "sendgrid:starter",
+  "memcachier:dev",
+  "papertrail:choklad"
+  ]
+}
